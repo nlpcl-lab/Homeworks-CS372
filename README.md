@@ -6,4 +6,6 @@ Each piece of the codes is an intellectual property of the student who wrote it.
 
 These codes are uploaded for purely educational purpose, for only the students of CS372. Therefore, no other use is permitted at all.
 
+Please note that HW 3 is not yet been graded.
+
 This repository will be deleted at the end of the spring semester, 2020.
